@@ -17,11 +17,23 @@ Este projeto tem como objetivo desenvolver um sistema completo para a gestão ho
 SGHSS/
 ├── .vs
 ├── SHGSS
+   └── Context
+   └── Controllers
+   └── Migrations
+   └── Properties
+   └── Bin/Debug/net8.0
+   └── Obj
 ├── Shared
-   └──
-├── SGHSS.sln
-   └──
-└── README.md
+   └── Model
+      └── Consulta.cs
+      └── Internacao.cs
+      └── Medico.cs
+      └── Paciente.cs
+      └── Prescricao.cs
+   └── bin/Debug/net8.0
+   └── obj
+├── README.md
+└── SGHSS.sln
 
 
 ⚙️ Funcionalidades
