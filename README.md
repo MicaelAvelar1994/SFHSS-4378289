@@ -1,6 +1,6 @@
 # SGHSS - Sistema de Gestão Hospitalar e de Serviços de Saúde
 
-Este projeto tem como objetivo desenvolver um sistema completo para a gestão hospitalar, incluindo o controle de pacientes, profissionais, prescrições, leitos, e mais. O sistema foi desenvolvido como parte de um projeto acadêmico, utilizando tecnologias modernas e boas práticas de desenvolvimento de software.
+Este projeto tem como objetivo desenvolver um sistema completo para a gestão hospitalar, incluindo o controle de pacientes, médicos, prescrições, consultas, e mais. O sistema foi desenvolvido como parte de um projeto acadêmico, utilizando tecnologias modernas e boas práticas de desenvolvimento de software.
 
 ## 🚀 Tecnologias Utilizadas
 
