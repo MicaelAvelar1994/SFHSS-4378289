@@ -34,7 +34,7 @@ SGHSS/
 
  Prescrições médicas
 
- Controle de leitos
+ Internação
 
  Agendamentos (em desenvolvimento)
 
